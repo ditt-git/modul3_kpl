@@ -148,6 +148,7 @@ namespace kalkulator
             textBox1.Clear();
         }
 
+        //artha_walnut
 
     }
 }
